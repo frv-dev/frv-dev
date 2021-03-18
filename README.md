@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**frv-dev/frv-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full stack Developer, Technology Entusiast, Movie Buff, Traveller and Great Cook!!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Netshow.me](https://netshow.me/)
+- 🌱 I’m currently learning [Next.JS](https://nextjs.org/)
+- 📕 I have a project called [Code Easy](https://codeeasy.com.br) where I seek to teach people about the world of programming.
+- ⚡ I also like games so sometimes I do live streams as Felps in [The Felps Games](https://fb.gg/TheFelpsGames), just for fun for a few people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me 
+
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+
+[linkedin]: https://www.linkedin.com/in/felipe-renan-vieira/
+[instagram]: https://www.instagram.com/felipe.renan.vieira/
+[facebook]: https://www.facebook.com/felipe.r.vieira.5
