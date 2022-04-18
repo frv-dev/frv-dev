@@ -5,7 +5,6 @@
 - 💻 I’m currently working on [Netshow.me](https://netshow.me/)
 - 📖 I’m currently learning [Next.JS](https://nextjs.org/)
 - 📕 I have a project called [Code Easy](https://codeeasy.com.br) where I seek to teach people about the world of programming.
-- ⚡ I also like games so sometimes I do live streams as Felps in [The Felps Games](https://fb.gg/TheFelpsGames), just for fun for a few people.
 
 ### Connect with me:
 
