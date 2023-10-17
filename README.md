@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently: **Searching for work**
 - 📖 I'm studing more about: **Laravel, PHP, React, TypeScript and English.**
-- 🌱 I'm planning to study: **Symphony, NextJS, Godot 4, Defold and a little more about cloud infrastructure.**
+- 🌱 I'm planning to study: **Symphony, NextJS, Godot 4 and a little more about cloud infrastructure.**
 - 💬 Ask me about: **PHP and anything related.**
 - 📫 How to reach me: **feliperenanvieira@gmail.com or felipe@codeeasy.com.br.**
 - ⚡ I have a project called Code Easy (https://youtube.com/codeeasy) where I seek to teach people about the world of programming.
